@@ -1,4 +1,4 @@
-# TriTable
+# triTable
 
 A program that uses nested loops to create the following number pyramid:
 
